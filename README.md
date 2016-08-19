@@ -3,7 +3,7 @@
 Electron module that enables cross-app communication in a local network.
 Auto-discovery via UDP broadcasting for zero config networking.
 
-# Usage
+# Usage
 
 ```
 const Communications = require('./lib/Communications')({
