@@ -1,0 +1,18 @@
+{
+  "name": "electron-to-electron",
+  "version": "1.0.0",
+  "description": "An electron module that facilitates autodiscovery and local network communication (Electron App to Electron App)",
+  "main": "communications.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "address": "^1.0.0",
+    "first-open-port": "^0.1.2",
+    "got": "^6.3.0",
+    "netmask": "^1.0.6",
+    "polo": "^0.8.1"
+  }
+}
